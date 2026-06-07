@@ -1,3 +1,10 @@
+# About
+Codebase for a group project of 3 that examines how temporal dynamics affect user song ratings by comparing 3 models: NAM, LSTM, and the Transformer.
+I (Keith) specifically contributed by implementing NAM from scratch with their relevant analysis and write-ups.
+
+# Report
+Please find the group project report inside `report/`.
+
 # Dataset
 Place the text files from the music rating dataset in the directory: `data/landed/`.
 
